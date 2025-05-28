@@ -32,8 +32,3 @@ This project performs Exploratory Data Analysis (EDA) to gain insights into the 
 * Python (Pandas, NumPy)
 * Seaborn & Matplotlib for visualizations
 * Jupyter Notebook / Python scripts
-
-## 📌 Notes
-
-* The analysis is preliminary and intended to support downstream tasks such as modeling or feature engineering.
-* Please ensure all necessary Python packages are installed (see `requirements.txt` if provided).
